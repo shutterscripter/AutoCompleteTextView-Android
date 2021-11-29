@@ -12,10 +12,6 @@ An editable text view that shows completion suggestions automatically while the 
 
 
 
-
-
-
-
 ## Public methods
 
 
@@ -34,6 +30,10 @@ An editable text view that shows completion suggestions automatically while the 
             "Wardha", "Washim", "Yavatmal"
         )`
 
+
+## Demo
+
+https://user-images.githubusercontent.com/68694689/143906774-3d58a8ab-8ff6-412f-adf9-c97b537f5122.mp4
 
 
 ## Useful Links
